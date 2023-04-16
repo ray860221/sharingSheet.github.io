@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.1.1",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^118.0.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.9"
+  }
+}
